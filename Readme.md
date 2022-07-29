@@ -11,4 +11,9 @@
         
     2. using methodes in [php and regex ](regex.php)
         - I used google to applay on it
-        
+
+
+## references
+1. [stackoverflow](https://stackoverflow.com/questions/9813273/web-scraping-in-php)
+2. [iisd](https://enb.iisd.org/_inc/simple_html_dom/manual/manual.htm#section_create)
+
